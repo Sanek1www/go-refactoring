@@ -1,0 +1,8 @@
+PATCH http://localhost:3338/api/v1/users/1222
+Content-Type: application/json
+
+{
+  "display_name": "TESTICUS"
+}
+
+###
